@@ -13,7 +13,7 @@ Primary topics:
 
 Key pages and assets:
 - Home: https://nikhil-index.netlify.app/
-- Resume: https://nikhil-index.netlify.app/assets/Nikhil-resume-FullStack.pdf
+- Resume: https://nikhil-index.netlify.app/assets/resume_nikhil_specific.pdf
 - GitHub: https://github.com/proxy.nikhil-code
 - LinkedIn: https://www.linkedin.com/in/nikhil-zip
 - Email: nikhilsingh.zip@gmail.com
