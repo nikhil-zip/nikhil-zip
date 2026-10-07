@@ -239,6 +239,10 @@ https://amzn.in/d/0j6DpKNp
 
 [![GitHub](https://img.shields.io/badge/GitHub-nikhil--mca--code-black?style=for-the-badge\&logo=github)](https://github.com/nikhil-zip)
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-nikhil--zip-orange?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/nikhil-zip/)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-nikhil__zip-2EC866?style=for-the-badge\&logo=hackerrank\&logoColor=white)](https://www.hackerrank.com/profile/nikhil_zip)
+
 📧 Email: [nikhilsingh.zip@gmail.com](mailto:nikhilsingh.zip@gmail.com)
 
 ---

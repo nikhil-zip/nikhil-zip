@@ -832,7 +832,6 @@ section {
     transition-duration: 0.01ms;
   }
 }
-
 .project-head {
   display: flex;
   align-items: center;
@@ -1282,6 +1281,7 @@ a:focus-visible {
 
 /* Responsive */
 @media (max-width: 1100px) {
+
   .hero,
   .about-grid,
   .project-layout {
