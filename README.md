@@ -237,7 +237,7 @@ https://amzn.in/d/0j6DpKNp
 
 [![Instagram](https://img.shields.io/badge/Instagram-@proxy.nikhil-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/proxy.nikhil/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-nikhil--mca--code-black?style=for-the-badge\&logo=github)](https://github.com/nikhil-zip)
+[![GitHub](https://img.shields.io/badge/GitHub-nikhil--zip-black?style=for-the-badge\&logo=github)](https://github.com/nikhil-zip)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-nikhil--zip-orange?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/nikhil-zip/)
 
